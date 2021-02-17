@@ -1,0 +1,2 @@
+# CheckersAgent
+Graduate project
